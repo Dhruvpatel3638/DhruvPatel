@@ -1403,7 +1403,7 @@ header .logo p {
   height: 15rem;
   width: 15rem;
   border-radius: 50%;
-  margin: 0.9rem 3rem 3rem 0;
+  margin: 3rem;
   float: left;
 }
 .intro-info .lead {
